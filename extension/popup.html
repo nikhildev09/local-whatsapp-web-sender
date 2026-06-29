@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WhatsApp Sender Bot</title>
+    <style>
+      body {
+        width: 260px;
+        margin: 0;
+        padding: 18px;
+        font-family: Arial, sans-serif;
+        color: #10241b;
+        background: #ffffff;
+        text-align: center;
+      }
+
+      img {
+        width: 128px;
+        height: 128px;
+        object-fit: contain;
+      }
+
+      h1 {
+        margin: 12px 0 4px;
+        font-size: 16px;
+        line-height: 1.25;
+      }
+
+      p {
+        margin: 0;
+        font-size: 12px;
+        color: #51615a;
+      }
+
+      .queue {
+        margin-top: 16px;
+        padding-top: 14px;
+        border-top: 1px solid #e7eee9;
+        text-align: left;
+      }
+
+      .queue h2 {
+        margin: 0 0 10px;
+        font-size: 13px;
+      }
+
+      .row {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        margin: 6px 0;
+        font-size: 12px;
+      }
+
+      .row span:first-child {
+        color: #51615a;
+      }
+
+      button {
+        width: 100%;
+        margin-top: 12px;
+        border: 0;
+        border-radius: 6px;
+        padding: 9px 10px;
+        color: #ffffff;
+        background: #0abf53;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      button:active {
+        transform: translateY(1px);
+      }
+    </style>
+  </head>
+  <body>
+    <img src="icons/icon128.png" alt="WhatsApp Sender Bot logo">
+    <h1>WhatsApp Sender Bot</h1>
+    <p>Automation helper extension loaded.</p>
+
+    <section class="queue" aria-label="Queue Details">
+      <h2>Queue Details</h2>
+      <div class="row">
+        <span>Total</span>
+        <strong id="total">0</strong>
+      </div>
+      <div class="row">
+        <span>Sent</span>
+        <strong id="sent">0</strong>
+      </div>
+      <div class="row">
+        <span>Failed</span>
+        <strong id="failed">0</strong>
+      </div>
+      <div class="row">
+        <span>Skipped</span>
+        <strong id="skipped">0</strong>
+      </div>
+      <button id="clearQueue" type="button">Clear Queue Details</button>
+    </section>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

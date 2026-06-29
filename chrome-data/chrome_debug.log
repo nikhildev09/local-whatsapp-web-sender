@@ -1,0 +1,40 @@
+[9544:7028:0512/014609.414:WARNING:chrome_main_delegate.cc(747)] This is Chrome version 129.0.6668.90 (not a warning)
+[9544:7028:0512/014609.774:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[8216:8228:0512/014610.102:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[9544:7028:0512/014612.117:INFO:CONSOLE(232)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yx/r/6Dhd8V-LFQI.js (232)
+[9544:7028:0512/014614.596:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9544:7028:0512/014616.115:INFO:CONSOLE(63)] "The PerformanceObserver does not support buffered flag with the entryTypes argument.", source: https://static.whatsapp.net/rsrc.php/v4/y0/r/eLMh-li6mu_ktpndlYXADdldZ17Mi43IFRmezoi1NCGyKe0cKNhENBq3WPvdheKV47a_zHNlDMhh_i4LayP_ogKiDLW_Uqry6zXRgac4W9JUNXe0qnL2dG90HD3sMMaP-mao.js (63)
+[9544:7028:0512/014624.904:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9544:7028:0512/014625.085:INFO:CONSOLE(1)] "Refused to load the image 'https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp' because it violates the following Content Security Policy directive: "img-src 'self' blob:".
+", source: https://webtp.whatsapp.net/pdf-viewer/?locale=en_GB (1)
+[9544:7028:0512/014625.085:INFO:CONSOLE(1)] "Refused to load the image 'https://static.whatsapp.net/rsrc.php/yI/r/EoOh62-jiPS.webp' because it violates the following Content Security Policy directive: "img-src 'self' blob:".
+", source: https://webtp.whatsapp.net/pdf-viewer/?locale=en_GB (1)
+[9544:7028:0512/014625.324:INFO:CONSOLE(79)] "ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{author} joined from the community" Content="Context not logged." (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yu/r/0U22eSxJx5O.js (79)
+[9544:7028:0512/014627.738:INFO:CONSOLE(63)] "The PerformanceObserver does not support buffered flag with the entryTypes argument.", source: https://static.whatsapp.net/rsrc.php/v4/y0/r/eLMh-li6mu_ktpndlYXADdldZ17Mi43IFRmezoi1NCGyKe0cKNhENBq3WPvdheKV47a_zHNlDMhh_i4LayP_ogKiDLW_Uqry6zXRgac4W9JUNXe0qnL2dG90HD3sMMaP-mao.js (63)
+[9544:7028:0512/014629.913:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9544:7028:0512/014630.929:INFO:CONSOLE(79)] "ErrorUtils caught an error:
+
+fetching mms4 hosts on startup exceeded timeout (mms4-fetch-host-timeout)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yu/r/0U22eSxJx5O.js (79)
+[9544:7028:0512/014634.927:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9544:7028:0512/014639.475:INFO:CONSOLE(1)] "Refused to load the image 'https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp' because it violates the following Content Security Policy directive: "img-src 'self' blob:".
+", source: https://webtp.whatsapp.net/pdf-viewer/?locale=en_GB (1)
+[9544:7028:0512/014639.475:INFO:CONSOLE(1)] "Refused to load the image 'https://static.whatsapp.net/rsrc.php/yI/r/EoOh62-jiPS.webp' because it violates the following Content Security Policy directive: "img-src 'self' blob:".
+", source: https://webtp.whatsapp.net/pdf-viewer/?locale=en_GB (1)
+[9544:7028:0512/014639.683:INFO:CONSOLE(240)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.whatsapp.net/rsrc.php/v4/yu/r/0U22eSxJx5O.js (240)
+[9544:7028:0512/014639.940:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9544:7028:0512/014644.334:INFO:CONSOLE(0)] "Access to fetch at 'https://dit.whatsapp.net/deidentified_telemetry' from origin 'https://web.whatsapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.", source: https://web.whatsapp.com/ (0)
+[9544:7028:0512/014644.886:INFO:CONSOLE(0)] "Access to fetch at 'https://dit.whatsapp.net/deidentified_telemetry' from origin 'https://web.whatsapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.", source: https://web.whatsapp.com/ (0)
+[9544:7028:0512/014644.948:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9544:7028:0512/014645.677:INFO:CONSOLE(0)] "Access to fetch at 'https://dit.whatsapp.net/deidentified_telemetry' from origin 'https://web.whatsapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.", source: https://web.whatsapp.com/ (0)
+[9544:7028:0512/014646.976:INFO:CONSOLE(0)] "Access to fetch at 'https://dit.whatsapp.net/deidentified_telemetry' from origin 'https://web.whatsapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.", source: https://web.whatsapp.com/ (0)
+[9544:7028:0512/014648.938:INFO:CONSOLE(232)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yx/r/6Dhd8V-LFQI.js (232)
+[9544:7028:0512/014649.942:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[11348:8400:0512/014809.777:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[8224:11136:0512/014830.142:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[8224:11136:0512/014830.142:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.

@@ -1,0 +1,56 @@
+2026/05/12-02:14:26.524 2128 Reusing MANIFEST C:\Users\aspdi\OneDrive\Desktop\Whatsapp autosender\Wharsapp sender script\whatsapp-bot\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/12-02:14:26.525 2128 Recovering log #444
+2026/05/12-02:14:26.551 2128 Reusing old log C:\Users\aspdi\OneDrive\Desktop\Whatsapp autosender\Wharsapp sender script\whatsapp-bot\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000444.log 
+2026/05/12-02:14:39.137 2128 Level-0 table #454: started
+2026/05/12-02:14:39.162 2128 Level-0 table #454: 432408 bytes OK
+2026/05/12-02:14:39.170 2128 Delete type=0 #444
+2026/05/12-02:14:39.174 2128 Manual compaction at level-0 from '\x00G\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/12-02:14:39.180 2128 Compacting 1@1 + 6@2 files
+2026/05/12-02:14:39.441 2128 Generated table #455@1: 69081 keys, 2361342 bytes
+2026/05/12-02:14:39.657 2128 Generated table #456@1: 45145 keys, 2202036 bytes
+2026/05/12-02:14:39.791 2128 Generated table #457@1: 18377 keys, 2179483 bytes
+2026/05/12-02:14:40.182 2128 Generated table #458@1: 32469 keys, 2177505 bytes
+2026/05/12-02:14:40.491 2128 Generated table #459@1: 102738 keys, 2252434 bytes
+2026/05/12-02:14:40.579 2128 Generated table #460@1: 20424 keys, 454500 bytes
+2026/05/12-02:14:40.579 2128 Compacted 1@1 + 6@2 files => 11627300 bytes
+2026/05/12-02:14:40.583 2128 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/05/12-02:14:40.585 2128 Delete type=2 #446
+2026/05/12-02:14:40.585 2128 Delete type=2 #447
+2026/05/12-02:14:40.585 2128 Delete type=2 #448
+2026/05/12-02:14:40.585 2128 Delete type=2 #449
+2026/05/12-02:14:40.585 2128 Delete type=2 #450
+2026/05/12-02:14:40.585 2128 Delete type=2 #451
+2026/05/12-02:14:40.586 2128 Delete type=2 #454
+2026/05/12-02:14:55.997 868 Level-0 table #462: started
+2026/05/12-02:14:56.027 868 Level-0 table #462: 253037 bytes OK
+2026/05/12-02:14:56.038 868 Delete type=0 #453
+2026/05/12-02:14:56.040 2128 Manual compaction at level-0 from '\x00H\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/12-02:14:56.392 868 Compacting 1@1 + 6@2 files
+2026/05/12-02:14:58.228 868 Generated table #463@1: 69581 keys, 2357979 bytes
+2026/05/12-02:14:58.403 868 Generated table #464@1: 45198 keys, 2202240 bytes
+2026/05/12-02:14:58.541 868 Generated table #465@1: 18020 keys, 2179402 bytes
+2026/05/12-02:14:58.718 868 Generated table #466@1: 31859 keys, 2176548 bytes
+2026/05/12-02:14:58.916 868 Generated table #467@1: 102738 keys, 2252618 bytes
+2026/05/12-02:14:59.707 868 Generated table #468@1: 21636 keys, 480947 bytes
+2026/05/12-02:14:59.707 868 Compacted 1@1 + 6@2 files => 11649734 bytes
+2026/05/12-02:14:59.714 868 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/05/12-02:15:39.728 2b5c Level-0 table #470: started
+2026/05/12-02:15:39.997 2b5c Level-0 table #470: 377738 bytes OK
+2026/05/12-02:15:40.184 2b5c Delete type=2 #455
+2026/05/12-02:15:40.186 2b5c Delete type=2 #456
+2026/05/12-02:15:40.186 2b5c Delete type=2 #457
+2026/05/12-02:15:40.186 2b5c Delete type=2 #458
+2026/05/12-02:15:40.188 2b5c Delete type=2 #459
+2026/05/12-02:15:40.189 2b5c Delete type=2 #460
+2026/05/12-02:15:40.189 2b5c Delete type=0 #461
+2026/05/12-02:15:40.189 2b5c Delete type=2 #462
+2026/05/12-02:15:40.209 868 Manual compaction at level-0 from '\x00I\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/12-02:15:40.327 868 Compacting 1@1 + 6@2 files
+2026/05/12-02:15:41.927 868 Generated table #471@1: 70250 keys, 2363989 bytes
+2026/05/12-02:15:43.759 868 Generated table #472@1: 45249 keys, 2202346 bytes
+2026/05/12-02:15:43.884 868 Generated table #473@1: 17753 keys, 2177435 bytes
+2026/05/12-02:15:44.030 868 Generated table #474@1: 30849 keys, 2176271 bytes
+2026/05/12-02:15:44.239 868 Generated table #475@1: 102779 keys, 2254394 bytes
+2026/05/12-02:15:44.281 868 Generated table #476@1: 23321 keys, 517547 bytes
+2026/05/12-02:15:44.281 868 Compacted 1@1 + 6@2 files => 11691982 bytes
+2026/05/12-02:15:44.284 868 compacted to: files[ 0 0 6 0 0 0 0 ]
