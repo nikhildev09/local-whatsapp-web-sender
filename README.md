@@ -93,8 +93,7 @@ Make sure you have the following installed before getting started:
 ### Step 1 — Clone or Download the Repository
 
 ```powershell
-git clone https://github.com/yourusername/whatsapp-bot.git
-cd whatsapp-bot
+git clone https://github.com/nikhildev09/local-whatsapp-web-sender.git
 ```
 
 > Or click **Code → Download ZIP**, extract it, and open that folder in PowerShell.
